@@ -1,2 +1,2 @@
-# seatable-js-api-usage
-The use cases of seatable-js-api
+# seatable-api-js-usage
+The use cases of seatable-api-js
