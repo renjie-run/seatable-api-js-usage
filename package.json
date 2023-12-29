@@ -1,0 +1,25 @@
+{
+  "name": "seatable-api-js-usage",
+  "version": "0.0.1",
+  "description": "The use cases of seatable-api-js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renjie-run/seatable-api-js-usage.git"
+  },
+  "keywords": [
+    "seatable-api-js"
+  ],
+  "author": "renjie-run",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renjie-run/seatable-api-js-usage/issues"
+  },
+  "homepage": "https://github.com/renjie-run/seatable-api-js-usage#readme",
+  "dependencies": {
+    "seatable-api": "^1.0.38-beta.1"
+  }
+}
