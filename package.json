@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/renjie-run/seatable-api-js-usage#readme",
   "dependencies": {
-    "seatable-api": "^1.0.38-beta.1"
+    "seatable-api": "1.0.39"
   }
 }
