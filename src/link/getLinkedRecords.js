@@ -20,4 +20,3 @@ getLinkedRecords();
 module.exports = {
   getLinkedRecords,
 };
-
